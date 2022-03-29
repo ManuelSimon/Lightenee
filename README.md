@@ -10,15 +10,15 @@ Lightenee is a script created to manage the automated power on/off of Xiaomi Mi 
 
 ##  Index 📑
 
-- [Prerequisites](#prerequisites-⚠️)
-- [How to obtain needed call parameters](#how-to-obtain-needed-call-parameters-🤔)
-- [Executing Lightenee](#executing-lightenee-🚀)
-- [Logs](#logs-📚)
-- [How does it work?](#how-does-it-work-🤓)
+- [Prerequisites](#prerequisites-)
+- [How to obtain needed call parameters](#how-to-obtain-needed-call-parameters-)
+- [Executing Lightenee](#executing-lightenee-)
+- [Logs](#logs-)
+- [How does it work?](#how-does-it-work-)
 
 ---
 
-## Prerequisites ⚠️
+## Prerequisites 🚨
 
 Lightenee has a few dependencies that must be fulfilled to achieve proper performance. **These dependencies must be installed** on the machine Lightenee will run, including their **appropriate PATH configuration**:
 
