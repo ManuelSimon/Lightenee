@@ -23,7 +23,7 @@ Lightenee is a script created to manage the automated power on/off of Xiaomi Mi 
 Lightenee has a few dependencies that must be fulfilled to achieve proper performance. **These dependencies must be installed** on the machine Lightenee will run, including their **appropriate PATH configuration**:
 
 - [Powershell](https://github.com/PowerShell/PowerShell)
-- Pyhon 2/3
+- [Python 2/3](https://www.python.org/)
 - [Python-miio library](https://github.com/rytilahti/python-miio)
 
 ---
